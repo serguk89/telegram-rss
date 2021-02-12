@@ -1,0 +1,11 @@
+.env
+.git
+
+Dockerfile
+docker-compose.yml
+
+LICENSE.md
+Makefile
+README.md
+
+data/

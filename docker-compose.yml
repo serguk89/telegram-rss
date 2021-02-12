@@ -1,0 +1,11 @@
+version: "3.5"
+
+services:
+  bot:
+    build: 
+      context: .
+    env_file: .env
+    volumes:
+      - './data/datastore.db:/workspace/resources/datastore.db'
+    restart: unless-stopped
+    stop_grace_period: 2m

@@ -2,24 +2,24 @@
 
 ![Telegram2RSS Logo](logo/text/robotrss_logo_text_512.png)
 
-![Github python](https://img.shields.io/badge/latest_release-1.0.2-lightgrey.svg)
+![Github python](https://img.shields.io/badge/latest_release-v1.0-lightgrey.svg)
 ![Github python](https://img.shields.io/badge/python-2.7-blue.svg)
-[![GitHubissues](https://img.shields.io/github/issues/serguk89/Telegram2RSS.svg)](https://github.com/serguk89/telegram-rss/issues)
+[![GitHubissues](https://img.shields.io/github/issues/serguk89/telegram-rss.svg)](https://github.com/serguk89/telegram-rss/issues)
 [![GitHub license](https://img.shields.io/badge/telegram-%40Telegram2RSS-blue.svg)](http://t.me/rss_watch_bot)
 
 ## Description
 
 Telegram2RSS is an RSS Bot for the Telegram Messenger. Subscribe to different news channels and stay up-to-date. Receive instant messages in your Messenger app when websites are updated, e. g. on news pages, blogs or audio/video logs.
 
-The latest stable release and release notes can be found [here][b6577c1].
+The latest stable release and release notes can be found [here][4fbec07].
 
-  [b6577c1]: https://github.com/serguk89/telegram-rss/releases "releases"
+  [4fbec07]: https://github.com/serguk89/telegram-rss/releases "releases"
 
 ### Usage
 
 Telegram2RSS has an easy-to-use user interface to get started. Write the **official [@rss_watch_bot][2f7e3ad7]** via telegram. Use the following commands to manage your subscriptions:
 
-[2f7e3ad7]: http://t.me/rss_watch_bot "Telegram2RSS"
+[4fbec07]: http://t.me/rss_watch_bot "Telegram2RSS"
 
 **Controls**  
 `/start` - Activates the bot. If you have subscribed to RSS feeds, you will receive news from now on  
